@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Add Post"  android:id="@+id/add_post">
+</item>
+    <item android:title="Signout" android:id="@+id/signout" >
+    </item>
+</menu>
